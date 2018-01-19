@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-<a href="https://rasjonell.github.io/GoDot-Bricks/build/index.html" target="_blank">Run The Game!</a>
+[Click Here To Play The Game On Your Browser](https://rasjonell.github.io/GoDot-Bricks/build/index.html)
 
 ## Run Manually
 
