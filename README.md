@@ -23,4 +23,4 @@ firefox index.html --allow-file-access-from-files
 ```
 
 
-[screenshot](img/screen01.gif)
+![screenshot](img/screen01.gif)
