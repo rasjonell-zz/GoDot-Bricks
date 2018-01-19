@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resource_file type="PackedScene" subresource_count="3" version="2.1" version_name="Godot Engine v2.1.4.stable.official">
+	<ext_resource path="res://Textures/brick.png" type="Texture" index="0"></ext_resource>
+	<ext_resource path="res://Scripts/Replay.gd" type="Script" index="1"></ext_resource>
+	<main_resource>
+		<dictionary name="_bundled" shared="false">
+			<string> "conn_count" </string>
+			<int> 0 </int>
+			<string> "conns" </string>
+			<int_array  len="0"> 				 </int_array>
+			<string> "editable_instances" </string>
+			<array  len="0" shared="false">
+			</array>
+			<string> "names" </string>
+			<string_array  len="34">
+				<string> "GameOver" </string>
+				<string> "Node2D" </string>
+				<string> "StaticBody2D" </string>
+				<string> "transform/pos" </string>
+				<string> "input/pickable" </string>
+				<string> "collision/layers" </string>
+				<string> "collision/mask" </string>
+				<string> "constant_linear_velocity" </string>
+				<string> "constant_angular_velocity" </string>
+				<string> "friction" </string>
+				<string> "bounce" </string>
+				<string> "__meta__" </string>
+				<string> "Button" </string>
+				<string> "transform/scale" </string>
+				<string> "texture" </string>
+				<string> "script/script" </string>
+				<string> "Sprite" </string>
+				<string> "Message" </string>
+				<string> "focus/ignore_mouse" </string>
+				<string> "focus/stop_mouse" </string>
+				<string> "size_flags/horizontal" </string>
+				<string> "size_flags/vertical" </string>
+				<string> "margin/left" </string>
+				<string> "margin/top" </string>
+				<string> "margin/right" </string>
+				<string> "margin/bottom" </string>
+				<string> "custom_colors/font_color_shadow" </string>
+				<string> "text" </string>
+				<string> "uppercase" </string>
+				<string> "percent_visible" </string>
+				<string> "lines_skipped" </string>
+				<string> "max_lines_visible" </string>
+				<string> "Label" </string>
+				<string> "Message1" </string>
+			</string_array>
+			<string> "node_count" </string>
+			<int> 5 </int>
+			<string> "node_paths" </string>
+			<array  len="0" shared="false">
+			</array>
+			<string> "nodes" </string>
+			<int_array  len="117"> 				-1, -1, 1, 0, -1, 0, 0, 0, 0, 2, 2, -1, 9, 3, 0, 4, 1, 5, 2, 6, 2, 7, 3, 8, 4, 9, 5, 10, 4, 11, 6, 0, 1, 0, 16, 12, -1, 4, 3, 7, 13, 8, 14, 9, 15, 10, 0, 1, 0, 32, 17, -1, 14, 18, 11, 19, 11, 20, 12, 21, 13, 22, 14, 23, 15, 24, 16, 25, 17, 26, 18, 27, 19, 28, 11, 29, 5, 30, 13, 31, 20, 0, 1, 0, 32, 33, -1, 14, 18, 11, 19, 11, 20, 12, 21, 13, 22, 21, 23, 22, 24, 23, 25, 24, 26, 18, 27, 25, 28, 11, 29, 5, 30, 13, 31, 20, 0 </int_array>
+			<string> "variants" </string>
+			<array  len="26" shared="false">
+				<vector2> 0, -32 </vector2>
+				<bool> False </bool>
+				<int> 1 </int>
+				<vector2> 0, 0 </vector2>
+				<real> 0 </real>
+				<real> 1 </real>
+				<dictionary  shared="false">
+					<string> "_edit_group_" </string>
+					<bool> True </bool>
+				</dictionary>
+				<vector2> 336, 224 </vector2>
+				<vector2> 3, 2 </vector2>
+				<resource  external="0">  </resource>
+				<resource  external="1">  </resource>
+				<bool> True </bool>
+				<int> 2 </int>
+				<int> 0 </int>
+				<real> 288 </real>
+				<real> 176 </real>
+				<real> 390 </real>
+				<real> 190 </real>
+				<color> 0, 0, 0, 1 </color>
+				<string> "YOU HAVE LOST" </string>
+				<int> -1 </int>
+				<real> 313 </real>
+				<real> 217 </real>
+				<real> 359 </real>
+				<real> 231 </real>
+				<string> "Replay" </string>
+			</array>
+			<string> "version" </string>
+			<int> 2 </int>
+		</dictionary>
+
+	</main_resource>
+</resource_file>
