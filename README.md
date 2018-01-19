@@ -1,6 +1,10 @@
 # GoDot Engine Bricks Game
 
-## Run The Game
+## Live Demo
+
+<a href="https://rasjonell.github.io/GoDot-Bricks/build/index.html" target="_blank">Run The Game!</a>
+
+## Run Manually
 
 clone the repo
 
